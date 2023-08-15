@@ -132,7 +132,8 @@ Benefit from the cloud. You can access your codespaces from anywhere in the glob
 Use the appropriate tools. You may enhance your workflow in Codespaces by utilizing a range of tools. Debuggers, linters, and code formatters are examples of this.
 Automate the things you do. In Codespaces, you may use workflows or scripts to automate processes. You can increase your productivity and save time by doing this.
 Use the appropriate settings.
-Comparisons with Other Development Environments:
+
+## Comparisons with Other Development Environments
 
 •	Compare GitHub Codespaces with other IDEs, local development setups, and cloud-based tools.
 
@@ -177,7 +178,8 @@ Only allow trustworthy persons access to your codespaces. This will aid in guard
 Take care when installing software in your codespaces. Install only reputable extensions and packages.
 Update your codespaces as necessary. You will be better protected against security flaws as a result.
 Maintain regular data backups. In the event of a security problem, this will assist you in recovering your data.
-Future Developments and Updates:
+
+## Future Developments and Updates
 
 •	Any upcoming features, improvements, or changes to GitHub Codespaces.
 There are several new features, upgrades, and modifications that are being planned as part of GitHub's ongoing effort to improve Codespaces. Here are a few illustrations:
